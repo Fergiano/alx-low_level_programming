@@ -1,1 +1,5 @@
-int _isalpha(int c) {}
+int _isalpha(int c)
+{
+	c = c;
+	return 0;
+}
