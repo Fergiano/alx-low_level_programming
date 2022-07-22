@@ -1,1 +1,1 @@
-int_aoi(char *s){}
+int _aoi(char *s){}
